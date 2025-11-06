@@ -1,0 +1,222 @@
+[
+  {
+    "employee_id": "EMP001",
+    "personal_info": {
+      "name": "杨芳",
+      "age": 24,
+      "email": "杨芳1@company.com",
+      "phone": "18294844295",
+      "address": "北京市南山区"
+    },
+    "work_info": {
+      "department": "人事部",
+      "position": "工程师",
+      "salary": 9981,
+      "hire_date": "2024-02-26",
+      "employee_status": "在职"
+    },
+    "skills": [
+      "团队合作",
+      "沟通能力",
+      "Java"
+    ]
+  },
+  {
+    "employee_id": "EMP002",
+    "personal_info": {
+      "name": "张磊",
+      "age": 41,
+      "email": "张磊2@company.com",
+      "phone": "15357458968",
+      "address": "杭州市江汉区"
+    },
+    "work_info": {
+      "department": "客服部",
+      "position": "助理",
+      "salary": 19866,
+      "hire_date": "2024-04-02",
+      "employee_status": "试用期"
+    },
+    "skills": [
+      "团队合作",
+      "数据分析",
+      "Python"
+    ]
+  },
+  {
+    "employee_id": "EMP003",
+    "personal_info": {
+      "name": "李华",
+      "age": 24,
+      "email": "李华3@company.com",
+      "phone": "17841783167",
+      "address": "杭州市武侯区"
+    },
+    "work_info": {
+      "department": "人事部",
+      "position": "分析师",
+      "salary": 12790,
+      "hire_date": "2023-10-08",
+      "employee_status": "试用期"
+    },
+    "skills": [
+      "项目管理",
+      "沟通能力",
+      "数据分析"
+    ]
+  },
+  {
+    "employee_id": "EMP004",
+    "personal_info": {
+      "name": "王杰",
+      "age": 43,
+      "email": "王杰4@company.com",
+      "phone": "16989693893",
+      "address": "北京市天河区"
+    },
+    "work_info": {
+      "department": "财务部",
+      "position": "工程师",
+      "salary": 8642,
+      "hire_date": "2021-01-24",
+      "employee_status": "试用期"
+    },
+    "skills": [
+      "团队合作",
+      "沟通能力",
+      "项目管理"
+    ]
+  },
+  {
+    "employee_id": "EMP005",
+    "personal_info": {
+      "name": "吴明",
+      "age": 27,
+      "email": "吴明5@company.com",
+      "phone": "14026074311",
+      "address": "深圳市江汉区"
+    },
+    "work_info": {
+      "department": "客服部",
+      "position": "专员",
+      "salary": 14296,
+      "hire_date": "2022-12-09",
+      "employee_status": "试用期"
+    },
+    "skills": [
+      "团队合作",
+      "Python",
+      "项目管理"
+    ]
+  },
+  {
+    "employee_id": "EMP006",
+    "personal_info": {
+      "name": "吴强",
+      "age": 23,
+      "email": "吴强6@company.com",
+      "phone": "17564536493",
+      "address": "武汉市雁塔区"
+    },
+    "work_info": {
+      "department": "运营部",
+      "position": "助理",
+      "salary": 7632,
+      "hire_date": "2023-10-02",
+      "employee_status": "在职"
+    },
+    "skills": [
+      "沟通能力",
+      "JavaScript",
+      "Python"
+    ]
+  },
+  {
+    "employee_id": "EMP007",
+    "personal_info": {
+      "name": "李磊",
+      "age": 26,
+      "email": "李磊7@company.com",
+      "phone": "14254121405",
+      "address": "广州市西湖区"
+    },
+    "work_info": {
+      "department": "市场部",
+      "position": "经理",
+      "salary": 15914,
+      "hire_date": "2022-04-23",
+      "employee_status": "在职"
+    },
+    "skills": [
+      "团队合作",
+      "项目管理",
+      "数据分析"
+    ]
+  },
+  {
+    "employee_id": "EMP008",
+    "personal_info": {
+      "name": "陈杰",
+      "age": 43,
+      "email": "陈杰8@company.com",
+      "phone": "13066074607",
+      "address": "深圳市朝阳区"
+    },
+    "work_info": {
+      "department": "研发部",
+      "position": "分析师",
+      "salary": 18966,
+      "hire_date": "2024-09-17",
+      "employee_status": "在职"
+    },
+    "skills": [
+      "Python",
+      "Java",
+      "数据分析"
+    ]
+  },
+  {
+    "employee_id": "EMP009",
+    "personal_info": {
+      "name": "张磊",
+      "age": 29,
+      "email": "张磊9@company.com",
+      "phone": "16718396734",
+      "address": "上海市浦东新区"
+    },
+    "work_info": {
+      "department": "销售部",
+      "position": "分析师",
+      "salary": 17233,
+      "hire_date": "2023-07-04",
+      "employee_status": "在职"
+    },
+    "skills": [
+      "项目管理",
+      "团队合作",
+      "沟通能力"
+    ]
+  },
+  {
+    "employee_id": "EMP010",
+    "personal_info": {
+      "name": "李静",
+      "age": 40,
+      "email": "李静10@company.com",
+      "phone": "14667692295",
+      "address": "武汉市浦东新区"
+    },
+    "work_info": {
+      "department": "技术部",
+      "position": "经理",
+      "salary": 5799,
+      "hire_date": "2022-09-14",
+      "employee_status": "试用期"
+    },
+    "skills": [
+      "项目管理",
+      "Java",
+      "沟通能力"
+    ]
+  }
+]
